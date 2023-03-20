@@ -74,9 +74,9 @@
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
+          <a href="https://github.com/adelfortin">
+            <!-- <img src="##https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <img src="##https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
@@ -89,6 +89,6 @@
 
 <div align='center'>
 
-![](https://komarev.com/ghpvc/?username=jeffreyc86&label=Profile+Views)
+![](##https://komarev.com/ghpvc/?username=jeffreyc86&label=Profile+Views)
 
 </div>
